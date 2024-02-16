@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.Scanner;
 
-public class ex3client {
+public class client {
     public static void main(String[] args) {
         try {
             Socket socket = new Socket("localhost", 100);

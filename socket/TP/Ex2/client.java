@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class ex2client {
+public class client {
     public static void main(String[] args) {
         try {
             voiture maVoiture = new voiture("Berline", "Toyota");

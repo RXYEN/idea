@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class ex3serveur {
+public class serveur {
     public static void main(String[] args) {
         try {
             ServerSocket serverSocket = new ServerSocket(100);
